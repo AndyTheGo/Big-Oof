@@ -5,4 +5,4 @@
 
 ## Project status
 
-[![Build Status](https://travis-ci.org/atdt/Big-Oof.svg?branch=master)](https://travis-ci.org/atdt/Big-Oof)
+[![Build Status](https://travis-ci.org/AndyTheGo/Big-Oof.svg?branch=master)](https://travis-ci.org/atdt/Big-Oof)
