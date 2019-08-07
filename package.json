@@ -4,7 +4,7 @@
   "author": "andy.asante@csedge.org",
   "version": "0.0.1",
   "devDependencies": {
-    "jshint":"^2.10.0"
+    "jshint":"^2.10.0",
     "csslint":"^1.0.5"
   },
   "scripts": {
